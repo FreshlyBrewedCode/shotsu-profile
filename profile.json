@@ -1,0 +1,12 @@
+{
+  "id": "fd110ddd-ac87-4054-aff4-a31d10b5e458",
+  "name": "karl",
+  "bio": "test profile",
+  "avatarPhotoId": null,
+  "sets": [
+    {
+      "id": "07196877-067a-40dc-b732-ebfa5847d6d1",
+      "title": "test"
+    }
+  ]
+}
