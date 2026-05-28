@@ -1,6 +1,6 @@
 {
-  "generation": 1,
-  "publishedAt": "2026-05-28T17:34:35.436Z",
+  "generation": 2,
+  "publishedAt": "2026-05-28T17:40:28.008Z",
   "files": [
     {
       "path": "profile.json",
@@ -9,13 +9,8 @@
     },
     {
       "path": "sets/07196877-067a-40dc-b732-ebfa5847d6d1.json",
-      "hash": "bd3f52d4434213eb9485c6c7dab82773961ba38a6d4cfd41335ebb9de14df841",
-      "size": 1902
-    },
-    {
-      "path": "photos/f88e5980-01b8-46e0-8a70-caef541b8df3.webp",
-      "hash": "f4f0e4ef984e7403aa9b23aa30192167ef5684d336ca6544cf2cede3e4770aa0",
-      "size": 64766
+      "hash": "aca0d6f45103f9aa4bc936bc46295e667697d60f42f747aae4053e3547818c79",
+      "size": 1826
     },
     {
       "path": "photos/399bc5ad-a17c-4385-aea0-6600bc01246a.webp",
